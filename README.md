@@ -39,6 +39,11 @@ pero con la diferencia de que este debe crear votos de manera aleatoria
 Crear un programa que dada una cadena **s** y un entero **k**, sea capaz de devolver
 el número máximo de letras vocales en cualquier subcadena de **s** con longitud **k**.
 
+Ejemplo:
+
+![image](https://github.com/user-attachments/assets/cf7fd13e-8a36-40f8-be36-e681897c55e7)
+
+
 --
 
 --
